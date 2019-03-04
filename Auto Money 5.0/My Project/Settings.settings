@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Timer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="Key" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">F9</Value>
+    </Setting>
+    <Setting Name="Money_Total" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Procces" Type="System.String" Scope="User">
+      <Value Profile="(Default)">refund_[unknowncheats.me]_</Value>
+    </Setting>
+    <Setting Name="Ignore" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Money_limit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">750000</Value>
+    </Setting>
+    <Setting Name="RadomTimer" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="RandomTimer_time_Min" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="Randomtimer_time_Max" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="Anti_afk_key" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">W</Value>
+    </Setting>
+    <Setting Name="Anti_afk_Time" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="Money_Limit_toggle" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Timer_option" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Fixed Timer</Value>
+    </Setting>
+    <Setting Name="Overlay" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
